@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">Hey there 👋</h1>
 
 ###
 
