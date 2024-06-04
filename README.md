@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 
 ###
 
-<p align="left">I'm Arifur Rahman from Bangladesh<br><br>- 🔭 I’m working as a Full-Stack Software Developer.<br>- 📚 I'm currently learning Vue and React.<br>- ⚡ In my free time I work on my project ideas.</p>
+<p align="left">I'm Arifur Rahman from Bangladesh<br><br>- 🔭 I’m working as a Full-Stack Software Developer.<br>- 📚 I'm currently learning Vue and Golang.<br>- ⚡ In my free time I work on my project ideas.</p>
 
 ###
 
