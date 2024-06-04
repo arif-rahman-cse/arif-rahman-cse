@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="left">🛠 Language and tools worked so far</h3>
 
 ###
 
@@ -108,7 +108,4 @@ Here are some ideas to get you started:
 
 ###
 
-<h3 align="left">🔥   My Stats : 19</h3>
-
-###
 
