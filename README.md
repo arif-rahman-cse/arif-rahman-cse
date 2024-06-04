@@ -112,8 +112,3 @@ Here are some ideas to get you started:
 
 ###
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=arif-rahman-cse&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
