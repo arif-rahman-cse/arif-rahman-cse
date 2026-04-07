@@ -5,17 +5,18 @@ Hello! I'm Arif Rahman, a passionate software developer with a focus on creating
 ## Skills
 
 - **Programming Languages:**
-  - JavaScript
   - Python
+  - Go
+  - JavaScript
   - Java
+  - Kotlin
+  - Dart
   - C++
-  - Ruby
 
 - **Frameworks & Libraries:**
-  - React.js
-  - Node.js
+  - Vue.js
+  - Flutter
   - Django
-  - Ruby on Rails
 
 - **Tools & Technologies:**
   - Git
@@ -23,8 +24,6 @@ Hello! I'm Arif Rahman, a passionate software developer with a focus on creating
   - AWS
   - PostgreSQL
 
-## GitHub Stats
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=arif-rahman-cse&show_icons=true&hide_title=true)
 
 ## Projects
 
@@ -34,7 +33,7 @@ Hello! I'm Arif Rahman, a passionate software developer with a focus on creating
 
 ## Get In Touch
 
-Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/arif-rahman) or [Twitter](https://twitter.com/arif_rahman)!
+Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/smarifrahman/)!
 
 ## Call to Action
 
